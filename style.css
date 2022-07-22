@@ -102,11 +102,13 @@ footer {
 @media (max-width: 576px) {
   h1 {
     display: block;
-    font-size: 50px;
+    line-height: 1.5;
+    font-size: 48px;
     text-align: center;
   }
   h2 {
     display: block;
+    font-size: 32px;
     text-align: center;
   }
   button {
